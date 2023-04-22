@@ -1,0 +1,148 @@
+:root {
+  // Шрифты
+  --font-main: "OleoScript", sans-serif; // главный шрифт на странице
+  --font-second: "Numans", sans-serif;
+
+  // Контейнер
+  --container-width: 1120px; // ширина контейнера
+  --container-step: 20px; // падинги по бокам на пк
+  --container-step-tablet: 15px; // падинги по бокам на планшетах
+  --container-step-mobile: 10px; // падинги по бокам на мобилках
+  --container: calc(var(--container-width) + (var(--container-step) * 2)); // сам контейнер
+
+  // Цвета
+  --background-page: #F7F7F7; // бекграунд страницы
+  --white: #ffffff;
+  --black: #000000;
+  --b-blue: #030720;
+  --light: #F2F1F3;
+  --d-blue: #29357B;
+  --dark: #232222;
+
+  --hover: #36449C; // цвет при ховере
+  --active: #4354C0; // цвет при активе
+}
+
+.container {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 var(--container-step);
+
+  @media (max-width: 991px) {
+    padding: 0 var(--container-step-tablet);
+  }
+
+  @media (max-width: 600px) {
+    padding: 0 var(--container-step-mobile);
+  }
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-main);
+  min-height: 100vh;
+  overflow: hidden;
+  background-color: var(--background-page);
+}
+
+main {
+  flex: 1 1 auto;
+
+  &:not(:last-child) {
+    margin-bottom: 80px;
+  }
+}
+
+.tt-1 {
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 120%;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+
+  @media (max-width: 1220px) {
+    font-size: 42px;
+  }
+
+  @media (max-width: 991px) {
+    font-size: 32px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 24px;
+  }
+}
+
+.tt-2 {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 120%;
+  text-align: center;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+
+  @media (max-width: 1220px) {
+    font-size: 34px;
+  }
+
+  @media (max-width: 991px) {
+    font-size: 28px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 22px;
+  }
+}
+
+.tx-1 {
+  font-family: var(--font-second);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+
+  @media (max-width: 991px) {}
+
+  @media (max-width: 600px) {
+    font-size: 14px;
+  }
+}
+
+.tx-2 {
+  font-family: var(--font-second);
+  font-size: 24px;
+  line-height: 140%;
+  text-align: center;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+
+  @media (max-width: 991px) {
+    font-size: 22px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 20px;
+  }
+}
+
+.tx-3 {
+  font-family: var(--font-second);
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  text-align: center;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+}
+
+.btn-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  min-width: 140px;
+  min-height: 56px;
+  width: fit-content;
+  background-color: #29357B;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  text-align: center;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+}

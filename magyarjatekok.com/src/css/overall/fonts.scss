@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Kanit-Medium'),
+       url("../../fonts/Kanit-Medium.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Karla-Regular'),
+       url("../../fonts/Karla-Regular.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'NoticiaText';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('NoticiaText-Bold'),
+       url("../../fonts/NoticiaText-Bold.woff2") format("woff2")
+}

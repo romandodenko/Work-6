@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'JekoBlack';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Jeko-Black'),
+    url("../../fonts/Jeko-Black.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: local('Gilroy-ExtraBold'),
+    url("../../fonts/Gilroy-ExtraBold.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Muller';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Muller-Regular'),
+    url("../../fonts/Muller-Regular.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Inter-SemiBold'),
+    url("../../fonts/Inter-SemiBold.woff2") format("woff2")
+}

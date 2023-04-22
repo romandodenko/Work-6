@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title"
+    content="Elite Hotel Esplanade är ett av de bästa hotellen i Sverige med en sofistikerad atmosfär">
+  <meta property="og:site_name"
+    content="Koppla av i ett av hotellets vackra rum och njut av all service och underhållning. En av huvudattraktionerna är ett casino med svenska slots i spelrummet.">
+  <meta property="og:url" content="mobilautoslotlive.com">
+  <meta property="og:image" content="mobilautoslotlive.com/main.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title"
+    content="Elite Hotel Esplanade är ett av de bästa hotellen i Sverige med en sofistikerad atmosfär">
+  <meta name="twitter:description"
+    content="Koppla av i ett av hotellets vackra rum och njut av all service och underhållning. En av huvudattraktionerna är ett casino med svenska slots i spelrummet.">
+  <meta name="twitter:site" content="mobilautoslotlive.com">
+  <meta name="twitter:image" content="mobilautoslotlive.com/main.png">
+  <meta name="description"
+    content="Koppla av i ett av hotellets vackra rum och njut av all service och underhållning. En av huvudattraktionerna är ett casino med svenska slots i spelrummet.">
+  <title>Elite Hotel Esplanade är ett av de bästa hotellen i Sverige med en sofistikerad atmosfär</title>
+  <link rel="shortcut icon" href="./img/favicon.png">
+  <link rel="preload" href="./fonts/Questrial-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="./fonts/ReemKufiFun-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="./css/main-min.css">
+  <script defer src="./js/main.js"></script>
+</head>
+
+<body>
+  <div class="page">
+    <!-- start header -->
+    <?php
+    include 'header.php';
+    ?>
+    <!-- end header -->
+    <main>
+      <!-- start hero -->
+      <section class="hero">
+        <div class="container">
+          <div class="hero__content">
+            <div class="hero__descr">
+              <h1 class="hero__title tt-1">
+                Elite Hotel Esplanade
+              </h1>
+              <p class="hero__text tx-2">
+                Ett utmärkt val för en semester i Sverige, stilfulla rum med designrenovering där du kommer att trivas och ett kvällscasino med svenska slots.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- end hero -->
+
+      <!-- start benefits -->
+      <section class="benefits" id="benefits">
+      <div class="container">
+          <h2 class="benefits__title tt-2">
+            Fördelar med ett hotellkasino
+          </h2>
+          <p class="benefits__text tx-1">
+            Vårt hotell har många bekvämligheter och förmåner för en bra semester för alla turister.
+          </p>
+          <ul class="benefits__list">
+            <li class="benefits__item">
+              <span class="benefits__icon">
+                <img src="./img/icon-1.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+              <h3 class="benefits__subtitle tx-2">
+                Gratis frukost
+              </h3>
+            </li>
+            <li class="benefits__item">
+              <span class="benefits__icon">
+                <img src="./img/icon-2.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+              <h3 class="benefits__subtitle tx-2">
+                Täckt parkering
+              </h3>
+            </li>
+            <li class="benefits__item">
+              <span class="benefits__icon">
+                <img src="./img/icon-3.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+              <h3 class="benefits__subtitle tx-2">
+                Bar/lounge
+              </h3>
+            </li>
+            <li class="benefits__item">
+              <span class="benefits__icon">
+                <img src="./img/icon-4.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+              <h3 class="benefits__subtitle tx-2">
+                Betalad privat parkering på plats
+              </h3>
+            </li>
+            <li class="benefits__item">
+              <span class="benefits__icon">
+                <img src="./img/icon-5.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+              <h3 class="benefits__subtitle tx-2">
+                Gratis trådlöst nätverk
+              </h3>
+            </li>
+            <li class="benefits__item">
+              <span class="benefits__icon">
+                <img src="./img/icon-6.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+              <h3 class="benefits__subtitle tx-2">
+                Ett fitnesscenter
+              </h3>
+            </li>
+            <li class="benefits__item">
+              <span class="benefits__icon">
+                <img src="./img/icon-7.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+              <h3 class="benefits__subtitle tx-2">
+                Restaurang  
+              </h3>
+            </li>
+            <li class="benefits__item">
+              <span class="benefits__icon">
+                <img src="./img/icon-8.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+              <h3 class="benefits__subtitle tx-2">
+                Gratis välkomstte
+              </h3>
+            </li>
+            <li class="benefits__item">
+              <span class="benefits__icon">
+                <img src="./img/icon-9.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+              <h3 class="benefits__subtitle tx-2">
+                Kasino och hasardspel
+              </h3>
+            </li>
+          </ul>
+      </div>
+      </section>
+       <!-- end benefits -->
+
+       <!-- start about -->
+       <section class="about" id="about">
+       <div class="container">
+        <h2 class="about__title tt-2">
+          Om vårt kasinohotell
+        </h2>
+        <p class="about__top-text tx-2">
+          Elite Hotel Adlon är ett utmärkt val för dem som vill föryngra sig.
+        </p>
+        <div class="about__content">
+          <div class="about__descr">
+            <p class="about__text tx-1">
+              Denna plats är välkänd för sin trendiga atmosfär och närhet till fantastiska restauranger och attraktioner. Att bo på Elite Hotel Adlon gör det enkelt att uppleva det bästa av Malmö. Gästrummen har en plattskärms-tv, luftkonditionering och en minibar, och gäster kan använda internet tack vare kostnadsfritt wifi som hotellet erbjuder. Elite Hotel Adlon har rumservice dygnet runt, en conciergeservice och en reception som är öppen hela tiden för att göra din vistelse ännu trevligare. Det finns också ett fitnesscenter och en lobby. Om du kör till Elite Hotel Adlon finns parkering tillgänglig. Den erbjuder svenska spelautomater på ett riktigt casino. Även på hotellet finns olika restauranger med olika kök, besök grekiska restauranger som Pizzeria Davidshall, Restaurang Cataleya och Restaurang Plaka Grekisk, som ligger nära Elite Hotel
+            </p>
+          </div>
+          <div class="about__image">
+            <picture>
+            <source media="(min-width: 320px)" srcset="./img/about.webp, ./img/about-x2.webp 2x" type="image/webp">
+            <img src="./img/about.jpg" srcset="./img/about-x2.jpg 2x" loading="lazy" width="300" height="300" alt="Image">
+            </picture>
+          </div>
+        </div>
+       </div>
+       </section>
+        <!-- end about -->
+
+        <!-- start contacts -->
+        <section class="contacts" id="contacts">
+        <div class="contacts__container container">
+          <div class="contacts__images">
+            <div class="contacts__image">
+              <picture>
+              <source media="(min-width: 320px)" srcset="./img/contact-1.webp, ./img/contact-1-x2.webp 2x" type="image/webp">
+              <img src="./img/contact-1.jpg" srcset="./img/contact-1-x2.jpg 2x" loading="lazy" width="300" height="300" alt="Image">
+              </picture>
+            </div>
+            <div class="contacts__image">
+              <picture>
+              <source media="(min-width: 320px)" srcset="./img/contact-2.webp, ./img/contact-2-x2.webp 2x" type="image/webp">
+              <img src="./img/contact-2.jpg" srcset="./img/contact-2-x2.jpg 2x" loading="lazy" width="300" height="300" alt="Image">
+              </picture>
+            </div>
+          </div>
+          <div class="contacts__desr">
+            <h2 class="contacts__title tt-2">
+              Fyll i så ringer vi upp dig
+            </h2>
+            <p class="contacts__text tx-2">
+              Formulär att fylla i
+            </p>
+            <form class="contacts__form form" action="#!" name="form" autocomplete="on">
+              <div class="form__top">
+                <input class="form__input" type="text" name="text" id="text" placeholder="Ditt namn..." required>
+                <input class="form__input" type="email" name="email" id="email" placeholder="Din post..." required>
+              </div>
+              <textarea class="form__textarea" name="textarea" id="textarea" placeholder="Ditt meddelande..."></textarea>
+            <button class="form__btn but-1" type="submit">Skicka</button>
+            </form>
+          </div>
+        </div>
+        </section>
+         <!-- end contacts -->
+    </main>
+    <!-- start footer -->
+    <?php
+    include 'footer.php';
+    ?>
+    <!-- end footer -->
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: local('Jost-ExtraBold'),
+       url("../../fonts/Jost-ExtraBold.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Jost-Bold'),
+       url("../../fonts/Jost-Bold.woff2") format("woff2")
+}

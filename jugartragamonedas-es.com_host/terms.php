@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:type" content="website">
+  <meta property="og:title"
+    content="Casino online en español con tragamonedas gratis para entretenimiento y juegos divertidos. Términos y condiciones.">
+  <meta property="og:site_name"
+    content="Juega juegos de azar de casino por diversión, no desperdicies tu dinero, todas las máquinas tragamonedas están disponibles en línea en un solo sitio. El casino en línea en español es la mejor manera de divertirse por la noche.">
+  <meta property="og:url" content="jugartragamonedas-es.com">
+  <meta property="og:image" content="jugartragamonedas-es.com/main.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title"
+    content="Casino online en español con tragamonedas gratis para entretenimiento y juegos divertidos. Términos y condiciones.">
+  <meta name="twitter:description"
+    content="Juega juegos de azar de casino por diversión, no desperdicies tu dinero, todas las máquinas tragamonedas están disponibles en línea en un solo sitio. El casino en línea en español es la mejor manera de divertirse por la noche.">
+  <meta name="twitter:site" content="jugartragamonedas-es.com">
+  <meta name="twitter:image" content="jugartragamonedas-es.com/main.png">
+  <meta name="description"
+    content="Juega juegos de azar de casino por diversión, no desperdicies tu dinero, todas las máquinas tragamonedas están disponibles en línea en un solo sitio. El casino en línea en español es la mejor manera de divertirse por la noche.">
+  <title>Casino online en español con tragamonedas gratis para entretenimiento y juegos divertidos. Términos y
+    condiciones.</title>
+  <link rel="shortcut icon" href="./img/favicon.png">
+  <link rel="stylesheet" href="./css/main-min.css">
+  <script defer src="./js/main.js"></script>
+</head>
+
+<body>
+  <div class="page">
+    <div class="page__content">
+      <!-- start header -->
+      <?php
+      include 'header.php';
+      ?>
+      <!-- end header -->
+      <div class="page__body">
+        <main>
+          <!-- start top -->
+          <section class="top">
+            <div class="top__container container">
+              <span class="top__icon">
+                <img src="./img/18.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+            </div>
+          </section>
+          <!-- end top -->
+
+          <!-- start terms -->
+          <section class="terms">
+            <div class="container">
+              <h1><strong>Términos y condiciones</strong></h1>
+
+              <p>¡Bienvenido a jugartragamonedas-es.com!</p>
+
+              <p>Estos términos y condiciones describen las reglas y regulaciones para el uso de
+                jugartragamonedas-es.com
+                Sitio web, ubicado en jugartragamonedas-es.com.</p>
+
+              <p>Al acceder a este sitio web asumimos que acepta estos términos y condiciones. No sigas usando
+                jugartragamonedas-es.com si no está de acuerdo con todos los términos y condiciones establecidos en este
+                página.</p>
+
+              <p>La siguiente terminología se aplica a estos Términos y condiciones, Declaración de privacidad y
+                Descargo de responsabilidad
+                Aviso y todos los Acuerdos: "Cliente", "Usted" y "Su" se refiere a usted, la persona que inicia sesión
+                en este sitio web y
+                conforme a los términos y condiciones de la Compañía. "La Compañía", "Nosotros mismos", "Nosotros",
+                "Nuestro" y "Nosotros",
+                se refiere a nuestra Compañía. "Parte", "Partes" o "Nosotros", se refiere tanto al Cliente como a
+                nosotros mismos. Todos los términos
+                hacer referencia a la oferta, aceptación y contraprestación de pago necesarias para acometer el proceso
+                de nuestra
+                asistencia al Cliente de la manera más adecuada con el propósito expreso de cumplir con los requisitos
+                del Cliente
+                necesidades con respecto a la prestación de los servicios declarados de la Compañía, de acuerdo con y
+                sujeto a,
+                ley vigente de ar. Cualquier uso de la terminología anterior u otras palabras en singular, plural,
+                mayúsculas y/o él/ella o ellos, se toman como intercambiables y por lo tanto se refieren a ellos mismos.
+              </p>
+
+              <h2><strong>Cookies</strong></h2>
+
+              <p>Empleamos el uso de cookies. Al acceder a jugartragamonedas-es.com, aceptas el uso de cookies en
+                acuerdo con la Política de Privacidad de jugartragamonedas-es.com. </p>
+
+              <p>La mayoría de los sitios web interactivos utilizan cookies para permitirnos recuperar los detalles del
+                usuario para cada visita. Las cookies son
+                utilizado por nuestro sitio web para habilitar la funcionalidad de ciertas áreas para que sea más fácil
+                para las personas que visitan
+                nuestra página web. Algunos de nuestros socios afiliados/publicitarios también pueden usar cookies.</p>
+
+              <h2><strong>Licencia</strong></h2>
+
+              <p>Salvo que se indique lo contrario, jugartragamonedas-es.com y/o sus licenciantes son titulares de la
+                propiedad intelectual
+                derechos de todo el material de jugartragamonedas-es.com. Todos los derechos de propiedad intelectual
+                están reservados. Tú
+                puede acceder a este desde jugartragamonedas-es.com para su uso personal sujeto a las restricciones
+                establecidas en
+                estos términos y condiciones.</p>
+
+              <p>No debe:</p>
+              <ul>
+                <li>Reeditar material de jugartragamonedas-es.com</li>
+                <li>Vender, alquilar o sublicenciar material de jugartragamonedas-es.com</li>
+                <li>Reproducir, duplicar o copiar material de jugartragamonedas-es.com</li>
+                <li>Redistribuir contenido de jugartragamonedas-es.com</li>
+              </ul>
+
+              <p>Partes de este sitio web ofrecen una oportunidad para que los usuarios publiquen e intercambien
+                opiniones e información en
+                ciertas áreas del sitio web. jugartragamonedas-es.com no filtra, edita, publica ni revisa Comentarios
+                antes de su presencia en el sitio web. Los comentarios no reflejan los puntos de vista y opiniones de
+                jugartragamonedas-es.com, sus agentes y/o afiliados. Los comentarios reflejan los puntos de vista y las
+                opiniones de los
+                persona que publica sus puntos de vista y opiniones. En la medida permitida por las leyes aplicables,
+                jugartragamonedas-es.com no se hace responsable de los Comentarios ni de ninguna responsabilidad, daño o
+                gasto
+                causado y/o sufrido como resultado de cualquier uso y/o publicación y/o aparición de los Comentarios en
+                este sitio web.</p>
+
+              <p>jugartragamonedas-es.com se reserva el derecho de controlar todos los Comentarios y eliminar los
+                Comentarios que
+                puede considerarse inapropiado, ofensivo o causa el incumplimiento de estos Términos y Condiciones.</p>
+
+              <p>Usted garantiza y declara que:</p>
+
+              <ul>
+                <li>Tiene derecho a publicar los Comentarios en nuestro sitio web y tiene todas las licencias y
+                  consentimientos necesarios para
+                  hazlo;</li>
+                <li>Los Comentarios no invaden ningún derecho de propiedad intelectual, incluidos, entre otros, los
+                  derechos de autor,
+                  patente o marca comercial de terceros;</li>
+                <li>Los Comentarios no contienen contenido difamatorio, calumnioso, ofensivo, indecente o ilegal.
+                  material que es una invasión de la privacidad</li>
+                <li>Los Comentarios no se utilizarán para solicitar o promover negocios o costumbres o presentar
+                  anuncios comerciales.
+                  actividades o actividades ilícitas.</li>
+              </ul>
+
+              <p>Por la presente otorgas a jugartragamonedas-es.com una licencia no exclusiva para usar, reproducir,
+                editar y autorizar
+                otros para usar, reproducir y editar cualquiera de sus Comentarios en cualquiera y todas las formas,
+                formatos o medios.</p>
+
+              <h2><strong>Hipervínculos a nuestro contenido</strong></h2>
+
+              <p>Las siguientes organizaciones pueden vincular a nuestro sitio web sin aprobación previa por escrito:
+              </p>
+
+              <ul>
+                <li>Agencias gubernamentales;</li>
+                <li>Motores de búsqueda;</li>
+                <li>Organizaciones de noticias;</li>
+                <li>Los distribuidores de directorios en línea pueden vincular a nuestro sitio web de la misma manera
+                  que vinculan a la
+                  Sitios web de otras empresas enumeradas; y</li>
+                <li>Negocios acreditados en todo el sistema, excepto organizaciones sin fines de lucro que solicitan,
+                  compras benéficas
+                  centros comerciales y grupos de recaudación de fondos de caridad que pueden no tener hipervínculos a
+                  nuestro sitio web.</li>
+              </ul>
+
+              <p>Estas organizaciones pueden vincular a nuestra página de inicio, a publicaciones o a otra información
+                del sitio web siempre que
+                ya que el enlace: (a) no es de ninguna manera engañoso; (b) no implica falsamente patrocinio, respaldo o
+                aprobación de la parte enlazante y sus productos y/o servicios; y (c) encaja dentro del contexto de la
+                sitio de la parte que realiza el enlace.</p>
+
+              <p>Podemos considerar y aprobar otras solicitudes de enlace de los siguientes tipos de organizaciones:</p>
+
+              <ul>
+                <li>fuentes de información comercial y/o de consumidores comúnmente conocidas;</li>
+                <li>sitios de la comunidad dot.com;</li>
+                <li>asociaciones u otros grupos que representen organizaciones benéficas;</li>
+                <li>distribuidores de directorios en línea;</li>
+                <li>portales de Internet;</li>
+                <li>empresas de contabilidad, derecho y consultoría; y</li>
+                <li>instituciones educativas y asociaciones comerciales.</li>
+              </ul>
+
+              <p>Aprobaremos las solicitudes de enlace de estas organizaciones si decidimos que: (a) el enlace no se
+                realizaría
+                nos miramos desfavorablemente a nosotros mismos oa nuestros negocios acreditados; (b) la organización no
+                tiene ninguna
+                registros negativos con nosotros; (c) el beneficio para nosotros de la visibilidad del hipervínculo
+                compensa el
+                ausencia de jugartragamonedas-es.com; y (d) el enlace está en el contexto de información general de
+                recursos.
+              </p>
+
+              <p>Estas organizaciones pueden vincular a nuestra página de inicio siempre que el vínculo: (a) no sea
+                engañoso de ninguna manera; (b)
+                no implica falsamente patrocinio, respaldo o aprobación de la parte vinculada y sus productos o
+                servicios; y (c) encaja dentro del contexto del sitio de la parte que vincula.</p>
+
+              <p>Si usted es una de las organizaciones enumeradas en el párrafo 2 anterior y está interesado en
+                vincularse a nuestro
+                web, deberás comunicárnoslo enviando un e-mail a jugartragamonedas-es.com. Por favor incluya su nombre,
+                el nombre de su organización, la información de contacto y la URL de su sitio, una lista de las URL de
+                que tiene la intención de vincular a nuestro sitio web, y una lista de las URL en nuestro sitio a las
+                que le gustaría
+                enlace. Espere de 2 a 3 semanas para obtener una respuesta.</p>
+
+              <p>Las organizaciones aprobadas pueden tener hipervínculos a nuestro sitio web de la siguiente manera:</p>
+              <ul>
+                <li>Por el uso de nuestro nombre corporativo; o</li>
+                <li>Por el uso del localizador uniforme de recursos al que se vincula; o</li>
+                <li>Mediante el uso de cualquier otra descripción de nuestro sitio web vinculado que tenga sentido
+                  dentro del contexto
+                  y formato del contenido en el sitio de la parte que vincula.</li>
+              </ul>
+
+              <p>No se permitirá el uso del logotipo de jugartragamonedas-es.com u otras ilustraciones para vincular en
+                ausencia de una
+                acuerdo de licencia de marca registrada.</p>
+
+              <h2><strong>iFrames</strong></h2>
+
+              <p>Sin aprobación previa y permiso por escrito, no puede crear marcos alrededor de nuestras páginas web
+                que alteren
+                en modo alguno la presentación visual o apariencia de nuestro Sitio Web.</p>
+
+              <h2><strong>Responsabilidad de contenido</strong></h2>
+
+              <p>No seremos responsables de ningún contenido que aparezca en su sitio web. Usted acepta proteger y
+                defendernos de todas las reclamaciones que se susciten en su Sitio Web. Ningún enlace debe aparecer en
+                ningún sitio web
+                que pueda interpretarse como calumnioso, obsceno o criminal, o que infrinja, viole de otro modo o
+                defiende la infracción u otra violación de los derechos de terceros.</p>
+
+              <h2><strong>Reserva de Derechos</strong></h2>
+
+              <p>Nos reservamos el derecho de solicitarle que elimine todos los enlaces o cualquier enlace particular a
+                nuestro sitio web. Tú
+                aprobar la eliminación inmediata de todos los enlaces a nuestro sitio web previa solicitud. También nos
+                reservamos el derecho de amén.
+                estos términos y condiciones y su política de vinculación en cualquier momento. Al vincular
+                continuamente a nuestro sitio web,
+                usted acepta estar obligado y seguir estos términos y condiciones de vinculación.</p>
+
+              <h2><strong>Eliminación de enlaces de nuestro sitio web</strong></h2>
+
+              <p>Si encuentra algún enlace en nuestro sitio web que sea ofensivo por cualquier motivo, puede ponerse en
+                contacto y
+                infórmenos en cualquier momento. Consideraremos las solicitudes para eliminar enlaces, pero no estamos
+                obligados a ello o a
+                responderle directamente.</p>
+
+              <p>No aseguramos que la información en este sitio web sea correcta, no garantizamos su integridad o
+                exactitud; ni prometemos garantizar que el sitio web permanezca disponible o que el material en el
+                el sitio web se mantiene actualizado.</p>
+
+              <h2><strong>Descargo de responsabilidad</strong></h2>
+
+              <p>En la medida máxima permitida por la ley aplicable, excluimos todas las representaciones, garantías y
+                condiciones relativas a nuestro sitio web y al uso de este sitio web. Nada en este descargo de
+                responsabilidad:</p>
+
+              <ul>
+                <li>limitar o excluir nuestra o su responsabilidad por muerte o lesiones personales;</li>
+                <li>limitar o excluir nuestra o su responsabilidad por fraude o tergiversación fraudulenta;</li>
+                <li>limitar cualquiera de nuestras responsabilidades o las suyas de cualquier manera que no esté
+                  permitida por la ley aplicable; o</li>
+                <li>excluya cualquiera de nuestras responsabilidades o las suyas que no puedan excluirse según la ley
+                  aplicable.</li>
+              </ul>
+
+              <p>Las limitaciones y prohibiciones de responsabilidad establecidas en esta Sección y en otras partes de
+                este descargo de responsabilidad: (a)
+                están sujetos al párrafo anterior; y (b) rigen todas las responsabilidades derivadas de la exención de
+                responsabilidad,
+                incluidas las responsabilidades derivadas de contrato, agravio y por incumplimiento de obligaciones
+                legales.</p>
+
+              <p>Mientras el sitio web y la información y los servicios del sitio web se proporcionen de forma gratuita,
+                no será responsable de ninguna pérdida o daño de cualquier naturaleza.</p>
+            </div>
+          </section>
+          <!-- end terms -->
+        </main>
+        <!-- start footer -->
+        <?php
+        include 'footer.php';
+        ?>
+        <!-- end footer -->
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

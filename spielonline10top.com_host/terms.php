@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="Das Casino bietet die Möglichkeit, den Nervenkitzel von Slot-Spielen zu erleben, ohne Ihr eigenes Geld einzahlen zu müssen, ideal für Anfänger, um mit dem Spielen von Slots zu beginnen">
+  <link rel="shortcut icon" href="./img/favicon.png">
+  <link rel="stylesheet" href="./css/main-min.css">
+  <script defer src="./js/main.js"></script>
+  <title>Deutschland Online Casino mit kostenlosen Spielautomaten ohne Registrierung. Allgemeine Geschäftsbedingungen.</title>
+</head>
+
+<body>
+  <div class="page">
+    <div class="page__content">
+      <?php
+      include 'header.php';
+      ?>
+      <div class="page__bottom">
+        <main>
+          <section class="top">
+            <div class="top__container container">
+              <span class="top__icon">
+                <img src="./img/19.svg" loading="lazy" width="30" height="30" alt="Icon">
+              </span>
+            </div>
+          </section>
+          <section class="terms">
+            <div class="container">
+              <h1><strong>Allgemeine Geschäftsbedingungen</strong></h1>
+
+              <p>Willkommen auf spielonline10top.com!</p>
+    
+              <p>Diese Nutzungsbedingungen umreißen die Regeln und Vorschriften für die Nutzung von spielonline10top.com
+                Website, zu finden unter spielonline10top.com.</p>
+    
+              <p>Durch den Zugriff auf diese Website gehen wir davon aus, dass Sie diese Bedingungen akzeptieren. Nicht weiter verwenden
+                spielonline10top.com, wenn Sie nicht damit einverstanden sind, alle auf dieser Seite aufgeführten Bedingungen zu akzeptieren.</p>
+    
+              <p>Die folgende Terminologie gilt für diese Allgemeinen Geschäftsbedingungen, die Datenschutzerklärung und den Haftungsausschluss
+                und alle Vereinbarungen: „Kunde“, „Sie“ und „Ihr“ bezieht sich auf Sie, die Person, die sich auf dieser Website anmeldet und konform ist
+                zu den Geschäftsbedingungen des Unternehmens. „Das Unternehmen“, „uns“, „wir“, „unser“ und „uns“ bezieht sich auf unsere
+                Unternehmen. „Partei“, „Parteien“ oder „uns“ bezieht sich sowohl auf den Kunden als auch auf uns selbst. Alle Bedingungen beziehen sich auf das Angebot,
+                Annahme und Berücksichtigung der Zahlung, die erforderlich ist, um den Prozess unserer Unterstützung für den Kunden durchzuführen
+                auf die am besten geeignete Weise für den ausdrücklichen Zweck, die Bedürfnisse des Kunden in Bezug auf die Bereitstellung zu erfüllen
+                der angegebenen Dienstleistungen des Unternehmens in Übereinstimmung mit und vorbehaltlich des geltenden Rechts von ai. Jede Verwendung der
+                obige Terminologie oder andere Wörter im Singular, Plural, Großschreibung und/oder er/sie oder sie werden als verwendet
+                austauschbar und daher auf dasselbe bezogen.</p>
+    
+              <h2><strong>Cookies</strong></h2>
+    
+              <p>Wir verwenden Cookies. Mit dem Zugriff auf spielonline10top.com haben Sie der Verwendung von Cookies zugestimmt
+                mit der Datenschutzerklärung von spielonline10top.com. </p>
+    
+              <p>Die meisten interaktiven Websites verwenden Cookies, damit wir bei jedem Besuch die Benutzerdaten abrufen können. Kekse sind
+                Wird von unserer Website verwendet, um die Funktionalität bestimmter Bereiche zu aktivieren und den Besuch unserer Website zu erleichtern
+                Webseite. Einige unserer Affiliate-/Werbepartner können ebenfalls Cookies verwenden.</p>
+    
+              <h2><strong>Lizenz</strong></h2>
+    
+              <p>Sofern nicht anders angegeben, besitzen spielonline10top.com und/oder seine Lizenzgeber die geistigen Eigentumsrechte
+                für alle Materialien auf spielonline10top.com. Alle geistigen Eigentumsrechte sind vorbehalten. Sie dürfen zugreifen
+                diese von spielonline10top.com für Ihren eigenen persönlichen Gebrauch unterliegen den in diesen Bedingungen festgelegten Einschränkungen und
+                Bedingungen.</p>
+    
+              <p>Sie dürfen nicht:</p>
+              <ul>
+                <li>Material von spielonline10top.com erneut veröffentlichen</li>
+                <li>Verkaufen, vermieten oder unterlizenzieren Sie Material von spielonline10top.com</li>
+                <li>Material von spielonline10top.com reproduzieren, duplizieren oder kopieren</li>
+                <li>Verbreiten Sie Inhalte von spielonline10top.com weiter</li>
+              </ul>
+    
+              <p>Teile dieser Website bieten Nutzern die Möglichkeit, Meinungen und Informationen zu posten und auszutauschen
+                bestimmte Bereiche der Website. spielonline10top.com filtert, bearbeitet, veröffentlicht oder prüft Kommentare nicht vorher
+                zu ihrer Präsenz auf der Website. Kommentare spiegeln nicht die Ansichten und Meinungen von wider
+                spielonline10top.com, seine Vertreter und/oder verbundenen Unternehmen. Kommentare spiegeln die Ansichten und Meinungen der Person wider
+                die ihre Ansichten und Meinungen posten. Soweit nach geltendem Recht zulässig, wird spielonline10top.com
+                nicht haftbar für die Kommentare oder für jegliche Haftung, Schäden oder Kosten, die dadurch verursacht und/oder erlitten werden
+                jeglicher Nutzung und/oder Veröffentlichung und/oder Darstellung der Kommentare auf dieser Website.</p>
+    
+              <p>spielonline10top.com behält sich das Recht vor, alle Kommentare zu überwachen und eventuelle Kommentare zu entfernen
+                als unangemessen oder beleidigend angesehen wird oder gegen diese Allgemeinen Geschäftsbedingungen verstößt.</p>
+    
+              <p>Sie garantieren und versichern Folgendes:</p>
+    
+              <ul>
+                <li>Sie sind berechtigt, die Kommentare auf unserer Website zu veröffentlichen und verfügen über alle erforderlichen Lizenzen und Zustimmungen dazu
+                  also;</li>
+                <li>Die Kommentare verletzen keine geistigen Eigentumsrechte, einschließlich, aber nicht beschränkt auf Urheberrechte,
+                  Patent oder Warenzeichen eines Dritten;</li>
+                <li>Die Kommentare enthalten kein diffamierendes, verleumderisches, beleidigendes, unanständiges oder anderweitig rechtswidriges Material
+                  das ist eine Verletzung der Privatsphäre</li>
+                <li>Die Kommentare werden nicht verwendet, um geschäftliche oder kundenspezifische Aktivitäten zu erbitten oder zu fördern oder kommerzielle Aktivitäten zu präsentieren
+                  oder rechtswidrige Aktivitäten.</li>
+              </ul>
+    
+              <p>Sie gewähren spielonline10top.com hiermit eine nicht ausschließliche Lizenz zur Nutzung, Vervielfältigung, Bearbeitung und Autorisierung anderer
+                Ihre Kommentare in allen Formen, Formaten oder Medien zu verwenden, zu reproduzieren und zu bearbeiten.</p>
+    
+              <h2><strong>Hyperlinks zu unseren Inhalten</strong></h2>
+    
+              <p>Die folgenden Organisationen dürfen ohne vorherige schriftliche Genehmigung auf unsere Website verlinken:</p>
+    
+              <ul>
+                <li>Regierungsbehörden;</li>
+                <li>Suchmaschinen;</li>
+                <li>Nachrichtenorganisationen;</li>
+                <li>Vertreiber von Online-Verzeichnissen können auf dieselbe Weise auf unsere Website verlinken, wie sie auf die verlinken
+                  Websites anderer börsennotierter Unternehmen; und</li>
+                <li>Systemweit akkreditierte Unternehmen mit Ausnahme von gemeinnützigen Organisationen, Wohltätigkeits-Einkaufszentren,
+                  und wohltätige Fundraising-Gruppen, die nicht auf unsere Website verlinken dürfen.</li>
+              </ul>
+    
+              <p>Diese Organisationen dürfen so lange auf unsere Homepage, auf Veröffentlichungen oder auf andere Website-Informationen verlinken
+                der Link: (a) ist in keiner Weise irreführend; (b) impliziert nicht fälschlicherweise Sponsoring, Billigung oder Genehmigung
+                der verlinkenden Partei und ihrer Produkte und/oder Dienstleistungen; und (c) in den Kontext der Verlinkung passt
+                Website der Partei.</p>
+    
+              <p>Wir können andere Verknüpfungsanfragen von den folgenden Arten von Organisationen berücksichtigen und genehmigen:</p>
+    
+              <ul>
+                <li>allgemein bekannte Verbraucher- und/oder Geschäftsinformationsquellen;</li>
+                <li>dot.com-Community-Sites;</li>
+                <li>Verbände oder andere Gruppen, die Wohltätigkeitsorganisationen vertreten;</li>
+                <li>Online-Verzeichnisverteiler;</li>
+                <li>Internetportale;</li>
+                <li>Wirtschaftsprüfungs-, Anwalts- und Beratungsfirmen; und</li>
+                <li>Bildungseinrichtungen und Berufsverbände.</li>
+              </ul>
+    
+              <p>Wir werden Linkanfragen von diesen Organisationen genehmigen, wenn wir entscheiden, dass: (a) der Link uns nicht erreichen würde
+                ein ungünstiges Bild von uns selbst oder unseren akkreditierten Unternehmen haben; (b) die Organisation hat keine
+                negative Aufzeichnungen bei uns; (c) der Vorteil für uns aus der Sichtbarkeit des Hyperlinks kompensiert das Fehlen
+                von spielonline10top.com; und (d) der Link steht im Kontext allgemeiner Ressourceninformationen.</p>
+    
+              <p>Diese Organisationen dürfen auf unsere Homepage verlinken, solange der Link: (a) in keiner Weise irreführend ist; (B)
+                impliziert nicht fälschlicherweise Sponsoring, Billigung oder Genehmigung der verlinkenden Partei und ihrer Produkte oder
+                Dienstleistungen; und (c) in den Kontext der Website der verlinkenden Partei passt.</p>
+    
+              <p>Wenn Sie eine der oben in Absatz 2 aufgeführten Organisationen sind und daran interessiert sind, auf unsere zu verlinken
+                Website, müssen Sie uns dies per E-Mail an spielonline10top.com mitteilen. Bitte geben Sie Ihren Namen, Ihre
+                Name der Organisation, Kontaktinformationen sowie die URL Ihrer Website, eine Liste aller URLs, von denen Sie
+                beabsichtigen, auf unsere Website zu verlinken, und eine Liste der URLs auf unserer Website, auf die Sie verlinken möchten. Warte 2-3
+                Wochen auf eine Antwort.</p>
+    
+              <p>Zugelassene Organisationen können wie folgt auf unsere Website verlinken:</p>
+    
+              <ul>
+                <li>Durch die Verwendung unseres Firmennamens; oder</li>
+                <li>Durch Nutzung des Uniform Resource Locators, mit dem verlinkt wird; oder</li>
+                <li>Durch die Verwendung einer anderen Beschreibung unserer Website, auf die verlinkt wird, ist dies im Kontext sinnvoll und
+                  Format des Inhalts auf der Website der verlinkenden Partei.</li>
+              </ul>
+    
+              <p>Die Verwendung des Logos von spielonline10top.com oder anderer Grafiken ist für die Verlinkung ohne Markenzeichen nicht gestattet
+                Lizenzvereinbarung.</p>
+    
+              <h2><strong>iFrames</strong></h2>
+    
+              <p>Ohne vorherige Genehmigung und schriftliche Genehmigung dürfen Sie keine Frames um unsere Webseiten herum erstellen, die sich verändern
+                in irgendeiner Weise die visuelle Präsentation oder das Erscheinungsbild unserer Website.</p>
+    
+              <h2><strong>Inhaltshaftung</strong></h2>
+    
+              <p>Wir übernehmen keine Verantwortung für Inhalte, die auf Ihrer Website erscheinen. Sie stimmen zu, zu schützen und
+                verteidigen Sie uns gegen alle Ansprüche, die auf Ihrer Website erhoben werden. Es dürfen keine Links auf Websites erscheinen, die
+                als verleumderisch, obszön oder kriminell ausgelegt werden können oder die verletzen, anderweitig verletzen oder befürworten
+                die Verletzung oder sonstige Verletzung von Rechten Dritter.</p>
+    
+              <h2><strong>Rechtsvorbehalt</strong></h2>
+    
+              <p>Wir behalten uns das Recht vor, Sie aufzufordern, alle Links oder bestimmte Links zu unserer Website zu entfernen. Du
+                zustimmen, alle Links zu unserer Website auf Anfrage unverzüglich zu entfernen. Wir behalten uns auch das Recht vor, diese zu ändern
+                Allgemeinen Geschäftsbedingungen und deren Verlinkungsrichtlinie jederzeit. Indem Sie ständig auf unsere Website verlinken, stimmen Sie zu
+                an diese Verlinkungsbedingungen gebunden zu sein und diese zu befolgen.</p>
+    
+              <h2><strong>Entfernung von Links von unserer Website</strong></h2>
+    
+              <p>Wenn Sie einen Link auf unserer Website finden, der aus irgendeinem Grund anstößig ist, können Sie uns gerne kontaktieren und uns informieren
+                jeder Moment. Wir werden Anfragen zum Entfernen von Links prüfen, sind jedoch nicht dazu verpflichtet oder Ihnen zu antworten
+                direkt.</p>
+    
+              <p>Wir übernehmen keine Gewähr für die Richtigkeit der Informationen auf dieser Website, wir übernehmen keine Gewähr für deren Vollständigkeit oder
+                Genauigkeit; Wir versprechen auch nicht, sicherzustellen, dass die Website verfügbar bleibt oder dass das Material auf der Website
+                wird auf dem Laufenden gehalten.</p>
+    
+              <h2><strong>Haftungsausschluss</strong></h2>
+    
+              <p>Im größtmöglichen gesetzlich zulässigen Umfang schließen wir alle Zusicherungen, Gewährleistungen und Gewährleistungen aus
+                Bedingungen in Bezug auf unsere Website und die Nutzung dieser Website. Nichts in diesem Haftungsausschluss wird:</p>
+    
+              <ul>
+                <li>Beschränken oder schließen Sie unsere oder Ihre Haftung für Tod oder Körperverletzung aus;</li>
+                <li>Beschränken oder schließen Sie unsere oder Ihre Haftung für Betrug oder betrügerische Falschdarstellung aus;</li>
+                <li>Beschränken Sie unsere oder Ihre Verbindlichkeiten auf eine Weise, die nach geltendem Recht nicht zulässig ist; oder</li>
+                <li>schließen Sie jegliche unserer oder Ihrer Verbindlichkeiten aus, die nach geltendem Recht nicht ausgeschlossen werden können.</li>
+              </ul>
+    
+              <p>Die in diesem Abschnitt und an anderer Stelle in diesem Haftungsausschluss festgelegten Haftungsbeschränkungen und -verbote: (a) sind
+                vorbehaltlich des vorstehenden Absatzes; und (b) regeln alle Verbindlichkeiten, die sich aus dem Haftungsausschluss ergeben, einschließlich
+                Haftung aus Vertrag, unerlaubter Handlung und Verletzung gesetzlicher Pflichten.</p>
+    
+              <p>Solange die Website und die Informationen und Dienste auf der Website kostenlos zur Verfügung gestellt werden, werden wir dies tun
+                keine Haftung für Verluste oder Schäden jeglicher Art.</p>
+            </div>
+          </section>
+        </main>
+        <?php
+        include 'footer.php';
+        ?>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

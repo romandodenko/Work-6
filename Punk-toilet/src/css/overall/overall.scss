@@ -1,0 +1,12 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  font-family: CodaCaption, Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+main {
+  flex: 1 1 auto;
+}

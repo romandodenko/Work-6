@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'NotoSans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('NotoSans-Regular'),
+       url("../../fonts/NotoSans-Regular.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'WorkSans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('WorkSans-Bold'),
+       url("../../fonts/WorkSans-Bold.woff2") format("woff2")
+}

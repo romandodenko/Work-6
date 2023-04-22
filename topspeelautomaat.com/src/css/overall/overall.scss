@@ -1,0 +1,202 @@
+:root {
+  // Шрифты
+  --font-main: "Lato", sans-serif; // главный шрифт на странице
+  --font-second: "ReemKufiInk", sans-serif; // второстепенный шрифт на странице
+  --font-triple: "Telex", sans-serif; // второстепенный шрифт на странице
+
+  // Контейнер
+  --container-width: 1305px; // ширина контейнера
+  --container-step: 20px; // падинги по бокам на пк
+  --container-step-tablet: 15px; // падинги по бокам на планшетах
+  --container-step-mobile: 10px; // падинги по бокам на мобилках
+  --container: calc(var(--container-width) + (var(--container-step) * 2)); // сам контейнер
+
+  // Цвета
+  --background-page: #13120D; // бекграунд страницы
+  --white: #FFFFFF;
+  --blue: #75ACFF;
+  --d-gray: #404040;
+
+  --hover: #4A85DE; // цвет при ховере
+  --active: #2056A7; // цвет при активе
+}
+
+.container {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 var(--container-step);
+
+  @media (max-width: 991px) {
+    padding: 0 var(--container-step-tablet);
+  }
+
+  @media (max-width: 600px) {
+    padding: 0 var(--container-step-mobile);
+  }
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-main);
+  min-height: 100vh;
+  overflow: hidden;
+  background-color: var(--background-page);
+}
+
+main {
+  flex: 1 1 auto;
+
+  &:not(:last-child) {
+    margin-bottom: 90px;
+  }
+}
+
+.title-v1 {
+  font-weight: 700;
+  font-size: 68px;
+  line-height: 110%;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+  color: var(--blue);
+
+  @media (max-width: 1220px) {
+    font-size: 48px;
+  }
+
+  @media (max-width: 991px) {
+    font-size: 38px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 28px;
+  }
+}
+
+.title-v2 {
+  font-family: var(--font-second);
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 120%;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+  color: #75ACFF;
+
+  @media (max-width: 1220px) {
+    font-size: 32px;
+  }
+
+  @media (max-width: 991px) {
+    font-size: 26px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 20px;
+  }
+}
+
+.title-v3 {
+  font-family: var(--font-second);
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+  color: #75ACFF;
+
+  @media (max-width: 1220px) {
+    font-size: 22px;
+  }
+
+  @media (max-width: 991px) {
+    font-size: 20px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 18px;
+  }
+}
+
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+  color: var(--white);
+
+  @media (max-width: 991px) {}
+
+  @media (max-width: 600px) {
+    font-size: 14px;
+  }
+}
+
+.text-v2 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 140%;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+  color: rgba(255, 255, 255, .6);
+
+  @media (max-width: 991px) {
+    font-size: 18px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 16px;
+  }
+}
+
+.link-v1 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+  color: var(--white);
+  transition: color .3s ease-in-out;
+
+  @media (max-width: 991px) {
+    font-size: 18px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 20px;
+  }
+
+  @media (any-hover: hover) {
+    &:hover {
+      color: var(--hover);
+    }
+  }
+
+  &:active {
+    color: var(--active);
+    transition-duration: .1s;
+  }
+}
+
+.button-v1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  min-width: 192px;
+  min-height: 48px;
+  width: fit-content;
+  background-color: var(--blue);
+  font-family: var(--font-triple);
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 17px;
+  font-feature-settings: 'pnum'on, 'lnum'on;
+  color: #FFFFFF;
+  transition: background-color .3s ease-in-out;
+
+  @media (any-hover: hover) {
+    &:hover {
+      background-color: var(--hover);
+    }
+  }
+
+  &:active {
+    background-color: var(--active);
+    transition-duration: .1s;
+  }
+}

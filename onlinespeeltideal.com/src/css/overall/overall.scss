@@ -1,0 +1,179 @@
+:root {
+  // Шрифты
+  --font-main: Arial; // главный шрифт на странице
+
+  // Контейнер
+  --container-width: 1215px; // ширина контейнера
+  --container-step: 20px; // падинги по бокам на пк
+  --container-step-tablet: 15px; // падинги по бокам на планшетах
+  --container-step-mobile: 10px; // падинги по бокам на мобилках
+  --container: calc(var(--container-width) + (var(--container-step) * 2)); // сам контейнер
+
+  // Цвета
+  --background-page: #230406; // бекграунд страницы
+  --white: #fff;
+  --orange: #ea8f24;
+  --brown: #56050B;
+  --gold: #CA9713;
+
+  --hover: #EA7724; // цвет при ховере
+  --active: #D76E22; // цвет при активе
+}
+
+.container {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 var(--container-step);
+
+  @media (max-width: 991px) {
+    padding: 0 var(--container-step-tablet);
+  }
+
+  @media (max-width: 600px) {
+    padding: 0 var(--container-step-mobile);
+  }
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-main);
+  min-height: 100vh;
+  overflow: hidden;
+  background-color: var(--background-page);
+}
+
+main {
+  flex: 1 1 auto;
+
+  &:not(:last-child) {
+    margin-bottom: 160px;
+
+    @media (max-width: 991px) {
+      margin-bottom: 140px;
+    }
+
+    @media (max-width: 600px) {
+      margin-bottom: 120px;
+    }
+
+    @media (max-width: 991px) {
+      margin-bottom: 80px;
+    }
+
+    @media (max-width: 600px) {
+      margin-bottom: 60px;
+    }
+  }
+}
+
+.title-v1 {
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 142%;
+  text-transform: uppercase;
+  color: var(--white);
+
+  @media (max-width: 1220px) {
+    font-size: 42px;
+  }
+
+  @media (max-width: 991px) {
+    font-size: 34px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 24px;
+  }
+}
+
+.title-v2 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 115%;
+  color: var(--gold);
+
+  @media (max-width: 1220px) {
+    font-size: 32px;
+  }
+
+  @media (max-width: 991px) {
+    font-size: 26px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 20px;
+  }
+}
+
+.title-v3 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 116.666667%;
+  color: var(--white);
+
+  @media (max-width: 991px) {
+    font-size: 22px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 20px;
+  }
+}
+
+.text-v1 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 112.5%;
+  color: var(--white);
+
+  @media (max-width: 991px) {}
+
+  @media (max-width: 600px) {
+    font-size: 14px;
+  }
+}
+
+.text-v2 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 115%;
+  color: var(--white);
+
+  @media (max-width: 991px) {
+    font-size: 18px;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 16px;
+  }
+}
+
+.text-v3 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 114.285714%;
+  color: var(--white);
+
+  @media (max-width: 991px) {}
+
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+
+.button-v1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 15px;
+  min-width: 81px;
+  min-height: 34px;
+  width: fit-content;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  color: var(--white);
+  background-color: var(--orange);
+  flex-shrink: 0;
+}

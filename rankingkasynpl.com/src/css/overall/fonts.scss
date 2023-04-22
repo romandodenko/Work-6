@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Jost-Bold'),
+    url("../../fonts/Jost-Bold.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Kanit-Medium'),
+    url("../../fonts/Kanit-Medium.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Kanit-Regular'),
+    url("../../fonts/Kanit-Regular.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Shanti';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Shanti-Regular'),
+    url("../../fonts/Shanti-Regular.woff2") format("woff2")
+}

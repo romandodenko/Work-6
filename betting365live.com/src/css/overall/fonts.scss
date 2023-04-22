@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Graphik-Regular'),
+    url("../../fonts/Graphik-Regular.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'MerriweatherSans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('MerriweatherSans-Bold'),
+    url("../../fonts/MerriweatherSans-Bold.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Sarabun-Regular'),
+    url("../../fonts/Sarabun-Regular.woff2") format("woff2")
+}

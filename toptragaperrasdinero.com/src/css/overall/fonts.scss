@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'PTSans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('PTSans-Regular'),
+    url("../../fonts/PTSans-Regular.woff2") format("woff2")
+}
+@font-face {
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Palanquin-Regular'),
+    url("../../fonts/Palanquin-Regular.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'PublicSans';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local('PublicSans-Black'),
+    url("../../fonts/PublicSans-Black.woff2") format("woff2")
+}
